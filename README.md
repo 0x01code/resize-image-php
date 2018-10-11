@@ -1,2 +1,4 @@
 # resize-image-php
-Resize image in PHP
+<h3>Resize image in PHP</h3> <br>
+ตัวอย่างโค้ดการลดขนาดของรูปภาพให้เล็กลง <br>
+เอาไปใช้กับการอัพรูปภาพ เพื่อลกขนาดของรูป จะได้ไม่กินพื้นที่ของ server
